@@ -3,7 +3,7 @@ package inc.codeman.spring.springcore.lc.ticketreservation.exercise;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import inc.codeman.spring.springcore.lc.ticketreservation.exercise.Ticket;
+
 
 public class Test {
 	public static void main(String[] args) {
